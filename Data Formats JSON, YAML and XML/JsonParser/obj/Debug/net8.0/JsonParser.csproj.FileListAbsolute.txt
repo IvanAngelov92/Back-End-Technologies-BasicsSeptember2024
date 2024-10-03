@@ -1,0 +1,16 @@
+D:\Back-End Technologies Basics - септември 2024\Exercise Data Formats\JsonParser\bin\Debug\net8.0\JsonParser.exe
+D:\Back-End Technologies Basics - септември 2024\Exercise Data Formats\JsonParser\bin\Debug\net8.0\Datasets\Books.json
+D:\Back-End Technologies Basics - септември 2024\Exercise Data Formats\JsonParser\bin\Debug\net8.0\Datasets\Students.json
+D:\Back-End Technologies Basics - септември 2024\Exercise Data Formats\JsonParser\bin\Debug\net8.0\JsonParser.deps.json
+D:\Back-End Technologies Basics - септември 2024\Exercise Data Formats\JsonParser\bin\Debug\net8.0\JsonParser.runtimeconfig.json
+D:\Back-End Technologies Basics - септември 2024\Exercise Data Formats\JsonParser\bin\Debug\net8.0\JsonParser.dll
+D:\Back-End Technologies Basics - септември 2024\Exercise Data Formats\JsonParser\bin\Debug\net8.0\JsonParser.pdb
+D:\Back-End Technologies Basics - септември 2024\Exercise Data Formats\JsonParser\obj\Debug\net8.0\JsonParser.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-End Technologies Basics - септември 2024\Exercise Data Formats\JsonParser\obj\Debug\net8.0\JsonParser.AssemblyInfoInputs.cache
+D:\Back-End Technologies Basics - септември 2024\Exercise Data Formats\JsonParser\obj\Debug\net8.0\JsonParser.AssemblyInfo.cs
+D:\Back-End Technologies Basics - септември 2024\Exercise Data Formats\JsonParser\obj\Debug\net8.0\JsonParser.csproj.CoreCompileInputs.cache
+D:\Back-End Technologies Basics - септември 2024\Exercise Data Formats\JsonParser\obj\Debug\net8.0\JsonParser.dll
+D:\Back-End Technologies Basics - септември 2024\Exercise Data Formats\JsonParser\obj\Debug\net8.0\refint\JsonParser.dll
+D:\Back-End Technologies Basics - септември 2024\Exercise Data Formats\JsonParser\obj\Debug\net8.0\JsonParser.pdb
+D:\Back-End Technologies Basics - септември 2024\Exercise Data Formats\JsonParser\obj\Debug\net8.0\JsonParser.genruntimeconfig.cache
+D:\Back-End Technologies Basics - септември 2024\Exercise Data Formats\JsonParser\obj\Debug\net8.0\ref\JsonParser.dll
